@@ -25,7 +25,7 @@ React.JS Fundamentals Course : <br/>
 https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>
 https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
-[Codewars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc) all 8kyu (JS is the base language --> then solve in C if available) ==solve along the way if not done by this point,stay here and finish it all===
+[Codewars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc) all 8kyu | Language "JS" | Not Done by This Point? Stay and Finish.
 
 
 ### Computer Programming 1

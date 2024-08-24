@@ -1,8 +1,5 @@
 # Computer Programming Fundamentals
-
-## courses
-
-### Design
+## Design
 Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
 Figma Crash Course : <br/>
@@ -14,7 +11,7 @@ https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
 Learn Design with Figma :  <br/>
 https://www.figma.com/resource-library/design-basics/ <br/>
 
-### Front End Design Fundamentals
+## Front End Design Fundamentals
 W3Schools HTML : <br/>
 https://www.w3schools.com/html/default.asp <br/>
 W3Schools CSS : <br/>
@@ -25,13 +22,13 @@ React.JS Fundamentals Course : <br/>
 https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>
 https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
-[Codewars](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc) all 8kyu | Language "JS" | Not Done by This Point? Stay and Finish.
+Codewars all 8kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-
-### Computer Programming 1
+## C Programming
 Guide To C : <br/>
 https://beej.us/guide/bgc/html/ <br/>
-JavaScript info : <br/>
-https://javascript.info/ <br/>
-freeCodeCamp JavaScript Algorithms and Data Structures Certification <br/>
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+Reference Library : <br/>
+https://beej.us/guide/bgclr/html/ <br/>
+Think C <br/>
+https://drive.google.com/file/d/1HqxbG6M3co74pAKLMEXe2m_XP62xaHpg/view?usp=drive_link <br/>
+Codewars all 8kyu | Language "[C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.

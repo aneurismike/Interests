@@ -20,4 +20,6 @@ Guide To C : <br/>
 https://beej.us/guide/bgc/html/ <br/>
 JavaScript info : <br/>
 https://javascript.info/ <br/>
+freeCodeCamp JavaScript Algorithms and Data Structures Certification <br/>
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 

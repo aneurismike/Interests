@@ -1,6 +1,7 @@
 # Computer Programming Fundamentals
 
 ## courses
+
 ### Design
 Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
@@ -15,7 +16,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/ <br/>
 Put a Website Online : <br/>
 https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS
 
-### Introduction to Computer Science
+### Computer Languages
 Guide To C : <br/>
 https://beej.us/guide/bgc/html/ <br/>
 JavaScript info : <br/>

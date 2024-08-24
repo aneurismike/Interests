@@ -33,7 +33,7 @@ Reference Library : <br/>
 https://beej.us/guide/bgclr/html/ <br/>
 Think C <br/>
 https://drive.google.com/file/d/1HqxbG6M3co74pAKLMEXe2m_XP62xaHpg/view?usp=drive_link <br/>
-Codewars all 8kyu | Language "[C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+Codewars all 8kyu | Language "[C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>a
 freeCodeCamp JavaScript Algorithms and Data Structures Certification : <br/>
 
 ## JavaScript
@@ -43,7 +43,7 @@ Eloquent JavaScript : <br/>
 https://eloquentjavascript.net/ <br/>
 Think JavaScritp : <br/>
 https://matt.curinga.com/think-js/ <br/>
-Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C]([https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-7&order_by=sort_date%20desc))" | Not Done by This Point? Stay and Finish. <br/>
 freeCodeCamp Front End Development Libraries Certification : <br/>
 https://www.freecodecamp.org/learn/front-end-development-libraries/ <br/>
 

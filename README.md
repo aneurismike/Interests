@@ -61,3 +61,15 @@ Codewars all [8kyu](https://www.codewars.com/kata/search/cpp?q=&r%5B%5D=-8&order
 Codewars all 6kyu | Language "[JavaScript](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-6&order_by=sort_date%20desc), [C++](https://www.codewars.com/kata/search/cpp?q=&r%5B%5D=-6&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>
 freeCodeCamp Data Visualization Certification : <br/>
 https://www.freecodecamp.org/learn/data-visualization/ <br/>
+
+## Python
+Automating the Boring Stuff With Python : <br/>
+https://automatetheboringstuff.com/ <br/>
+Python Beyond the Basics : <br/>
+https://inventwithpython.com/beyond/ <br/>
+Think Python : <br/>
+https://allendowney.github.io/ThinkPython/ <br/>
+ Codewars all [8kyu](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-8&order_by=sort_date%20desc) [7kyu](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-7&order_by=sort_date%20desc) [6kyu](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-6&order_by=sort_date%20desc)| Language "Python" | Not Done by This Point? Stay and Finish. <br/>
+ Codewars all 5kyu | Language "[JavaScript](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C++](https://www.codewars.com/kata/search/cpp?q=&r%5B%5D=-5&order_by=sort_date%20desc), [Python](https://www.codewars.com/kata/search/python?q=&r%5B%5D=-5&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>
+freeCodeCamp Relational Database Certification <br/>
+https://www.freecodecamp.org/learn/relational-database/ <br/>

@@ -10,7 +10,7 @@ Figma For Developers : <br/>
 https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
 Figma UI UX Design : <br/>
 https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
-freeCodeCamp Responsive Web Design Certification :  <br/>
-https://www.freecodecamp.org/learn/2022/responsive-web-design/ <br/>
+HTML & CSS :  <br/>
+https://youtu.be/G3e-cpL7ofc?si=BC4_4g1R_-_GQcTQ <br/>
 
 

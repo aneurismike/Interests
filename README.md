@@ -34,3 +34,17 @@ https://beej.us/guide/bgc/html/ <br/>
 JavaScritp Info <br/>
 https://javascript.info/ <br/>
 Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-7&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## C & JavaScript Fundamentals 2
+C Reference Library <br/>
+https://beej.us/guide/bgclr/html/ <br/>
+Eloquent JavaScript <br/>
+https://eloquentjavascript.net/ <br/>
+Codewars all 6kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-6&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## C & JavaScript Fundamentals 3
+Think C <br/>
+https://drive.google.com/file/d/1HqxbG6M3co74pAKLMEXe2m_XP62xaHpg/view?usp=drive_link <br/>
+Think JavaScript <br/>
+https://matt.curinga.com/think-js/ <br/>
+Codewars all 6kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-5&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.

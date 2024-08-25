@@ -49,26 +49,37 @@ https://youtube.com/playlist?list=PLLKBSy1iPHAhCeDjgJDcZnmFp07Ya6jzq&si=zuZoLdnM
 Anatomia <br/>
 https://www.youtube.com/playlist?list=PLLKBSy1iPHAgrFHJtIwg_oaO9Yyfusc-0 <br/>
 
-## C & JavaScript Fundamentals 2
+## 6 C & JavaScript Fundamentals 2
 C Reference Library <br/>
 https://beej.us/guide/bgclr/html/ <br/>
 Eloquent JavaScript <br/>
 https://eloquentjavascript.net/ <br/>
 Codewars all 6kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-6&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## C & JavaScript Fundamentals 3
+## 7 Bliblia 1
+Hard Copy NIV
+
+## 8 C & JavaScript Fundamentals 3
 Think C <br/>
 https://drive.google.com/file/d/1HqxbG6M3co74pAKLMEXe2m_XP62xaHpg/view?usp=drive_link <br/>
 Think JavaScript <br/>
 https://matt.curinga.com/think-js/ <br/>
 Codewars all 5kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-5&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## Network Programming
+## 9 Puntuation
+The Puntuation Guide <br/>
+https://www.thepunctuationguide.com/
+
+## 10 Network Programming
 Guide to Network Programming <br/>
 https://beej.us/guide/bgnet/html/ <br/>
 Codewars all 4kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-4&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-4&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## The Command Line and More Git & Github
+## 11 Historia
+Historia Universal <br/>
+https://www.uv.es/ivorra/Historia/Indice.htm
+
+## 12 The Command Line and More Git & Github
 Bash Essentials <br/>
 https://drive.google.com/file/d/13W4VZoz11dO3ZO7exo9ZlmdPt9fMcmca/view?usp=drive_link <br/>
 Conquering the Command Line <br/>
@@ -78,8 +89,29 @@ https://beej.us/guide/bggit/html/ <br/>
 Pro Git <br/>
 https://git-scm.com/book/en/v2 <br/>
 
-## Communication
+## 13 World History
+World History Encyclopidia <br/>
+https://www.worldhistory.org/
+
+## 14 Communication
 Guide to Interprocess Communication <br/>
 https://beej.us/guide/bgipc/html/ <br/>
 Codewars all 3kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-3&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-3&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## 15 Biblia
+La Biblia: y sus Divisiones <br/>
+https://www.mundobiblicoelestudiodesupalabra.com/2015/10/la-biblia-sus-divisiones.html
+
+## 16 Biblia
+Hard Copy Reina Valera 1960
+
+## 17 Codewars Continued
+Codewars all 3kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-2&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-2&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## 18 Biblia 
+Hard Copy King James Version
+
+## 19 What's Next?
+
+_Workout, eat well, rest, God is king for eternity_
 

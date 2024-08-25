@@ -112,7 +112,7 @@ Codewars all 2kyu | Language "[JS](https://www.codewars.com/kata/search/javascri
 Hard Copy King James Version
 
 ## 19 Codewars Continued
-Codewars all 2kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-1&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-1&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+Codewars all 1kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-1&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-1&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
 ## 20 What's Next?
 

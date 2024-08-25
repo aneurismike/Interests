@@ -1,4 +1,4 @@
-# Computer Programming Fundamentals
+# 0 Computer Programming Fundamentals
 ## Design
 Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
@@ -11,7 +11,11 @@ https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
 Learn Design with Figma :  <br/>
 https://www.figma.com/resource-library/design-basics/ <br/>
 
-## Front End Design Fundamentals
+## 1 Typing Course
+Typing Club : <br/>
+https://www.typingclub.com/ <br/
+
+## 2 Front End Design Fundamentals
 W3Schools HTML : <br/>
 https://www.w3schools.com/html/default.asp <br/>
 W3Schools CSS : <br/>

@@ -13,7 +13,7 @@ https://www.figma.com/resource-library/design-basics/ <br/>
 
 ## 1 Typing Course
 Typing Club : <br/>
-https://www.typingclub.com/ <br/
+https://www.typingclub.com/ <br/>
 
 ## 2 Front End Design Fundamentals
 W3Schools HTML : <br/>

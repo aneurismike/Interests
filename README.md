@@ -47,4 +47,25 @@ Think C <br/>
 https://drive.google.com/file/d/1HqxbG6M3co74pAKLMEXe2m_XP62xaHpg/view?usp=drive_link <br/>
 Think JavaScript <br/>
 https://matt.curinga.com/think-js/ <br/>
-Codewars all 6kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-5&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+Codewars all 5kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-5&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-5&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## Network Programming
+Guide to Network Programming <br/>
+https://beej.us/guide/bgnet/html/ <br/>
+Codewars all 4kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-4&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-4&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+
+## The Command Line and More Git & Github
+Bash Essentials <br/>
+https://drive.google.com/file/d/13W4VZoz11dO3ZO7exo9ZlmdPt9fMcmca/view?usp=drive_link <br/>
+Conquering the Command Line <br/>
+https://www.softcover.io/read/fc6c09de/unix_commands/_single-page <br/>
+Guide to Git <br/>
+https://beej.us/guide/bggit/html/ <br/>
+Pro Git <br/>
+https://git-scm.com/book/en/v2 <br/>
+
+## Communication
+Guide to Interprocess Communication <br/>
+https://beej.us/guide/bgipc/html/ <br/>
+Codewars all 3kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-3&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-3&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
+

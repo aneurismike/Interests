@@ -20,6 +20,8 @@ W3Schools C : <br/>
 https://www.w3schools.com/c/index.php <br/>
 W3Schools JavaScript : <br/>
 https://www.w3schools.com/js/default.asp <br/>
+W3Schools Git & GitHub fundamentals : <br/>
+https://www.w3schools.com/git/default.asp?remote=github <br/>
 React.JS Fundamentals Course : <br/>
 https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>
@@ -27,6 +29,5 @@ https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
 Codewars all 8kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 freeCodeCamp Responsive Web Design Certification : <br/>
 https://www.freecodecamp.org/learn/2022/responsive-web-design/ <br/>
-Guide to Git : <br/>
-https://beej.us/guide/bggit/html/ <br/>
+
 

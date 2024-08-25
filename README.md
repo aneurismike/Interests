@@ -27,7 +27,10 @@ https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>
 https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
 Codewars all 8kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&xids=played&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-8&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
-freeCodeCamp Responsive Web Design Certification : <br/>
-https://www.freecodecamp.org/learn/2022/responsive-web-design/ <br/>
 
-
+## C & JavaScript Fundamentals 1
+Guide to C <br/>
+https://beej.us/guide/bgc/html/ <br/>
+JavaScritp Info <br/>
+https://javascript.info/ <br/>
+Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-7&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.

@@ -1,5 +1,5 @@
-# 0 Computer Programming Fundamentals
-## Design
+# Computer Programming Fundamentals
+## 0 Design
 Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
 Figma Crash Course : <br/>
@@ -43,8 +43,11 @@ JavaScritp Info <br/>
 https://javascript.info/ <br/>
 Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-7&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## 5 Painting
-Painting Fundamentals <br/>
+## 5 Concept Design
+Art Fundamentals <br/>
+https://youtube.com/playlist?list=PLLKBSy1iPHAhCeDjgJDcZnmFp07Ya6jzq&si=zuZoLdnM9Kl_gFRf <br/>
+Anatomia <br/>
+https://www.youtube.com/playlist?list=PLLKBSy1iPHAgrFHJtIwg_oaO9Yyfusc-0 <br/>
 
 ## C & JavaScript Fundamentals 2
 C Reference Library <br/>

@@ -114,7 +114,8 @@ Hard Copy King James Version
 ## 19 Codewars Continued
 Codewars all 1kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-1&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-1&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## 20 What's Next?
+## 20 Graphic Design
+Graphic Design for Everyone (book) <br/>
 
 _Workout, eat well, rest, God is king for eternity_
 

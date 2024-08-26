@@ -1,6 +1,6 @@
 # Computer Programming Fundamentals
 
-## Introduction to Computer Science
+## 0 Introduction to Computer Science
 0 - Computer Science Crash Course : <br/>
 https://www.youtube.com/watch?v=CNFK86hJRfE&t=820s <br/>
 1 - How the Web Works : <br/>
@@ -27,7 +27,11 @@ https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 14 - Codewars All 8kyu | Language "MySQL": <br/>
 15 - CS50 Lecture & Problem set
 
-## 0 Design
+## 1 Typing Course
+Typing Club : <br/>
+https://www.typingclub.com/ <br/>
+
+## 2 Design
 Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
 Figma Crash Course : <br/>
@@ -40,10 +44,6 @@ Learn Design with Figma :  <br/>
 https://www.figma.com/resource-library/design-basics/ <br/>
 Inkscape and Gimp : <br/>
 https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
-
-## 1 Typing Course
-Typing Club : <br/>
-https://www.typingclub.com/ <br/>
 
 ## 2 Front End Design Fundamentals
 W3Schools HTML : <br/>

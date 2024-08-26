@@ -28,6 +28,8 @@ W3Schools JavaScript : <br/>
 https://www.w3schools.com/js/default.asp <br/>
 W3Schools Git & GitHub fundamentals : <br/>
 https://www.w3schools.com/git/default.asp?remote=github <br/>
+The Odin Project - Foundations : <br/>
+https://www.theodinproject.com/paths/foundations/courses/foundations <br/>
 React.JS Fundamentals Course : <br/>
 https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>

@@ -10,6 +10,8 @@ Figma UI UX Design : <br/>
 https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
 Learn Design with Figma :  <br/>
 https://www.figma.com/resource-library/design-basics/ <br/>
+Inkscape and Gimp : <br/>
+https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
 
 ## 1 Typing Course
 Typing Club : <br/>

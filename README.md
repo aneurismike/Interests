@@ -9,21 +9,21 @@ https://www.youtube.com/watch?v=vcRmKtL4o_4&t=106s <br/>
 https://www.youtube.com/watch?v=_bYFu9mBnr4&t=29174s <br/>
 3 - Codewars All 8kyu | Language "C++": <br/>
 4 - JavaScript Fundamentals : <br/>
-https://www.youtube.com/watch?v=EfAl9bwzVZk&t=21461s
+https://www.youtube.com/watch?v=EfAl9bwzVZk&t=21461s <br/>
 5 - Codewars All 8kyu | Language "JavaScript": <br/>
 6 - C Fundamentals : <br/>
-https://www.youtube.com/watch?v=87SH2Cn0s9A&t=8556s
+https://www.youtube.com/watch?v=87SH2Cn0s9A&t=8556s <br/>
 7 - Codewars All 8kyu | Language "C": <br/>
 8 - Python Fundamentals : <br/>
-https://www.youtube.com/watch?v=H2EJuAcrZYU&t=21819s
+https://www.youtube.com/watch?v=H2EJuAcrZYU&t=21819s <br/>
 9 - Codewars All 8kyu | Language "Python": <br/>
 10 - Java Fundamentals : <br/>
-https://www.youtube.com/watch?v=xk4_1vDrzzo&t=962s
+https://www.youtube.com/watch?v=xk4_1vDrzzo&t=962s <br/>
 11 - Codewars All 8kyu | Language "Java": <br/>
 12 - Database MySQL Fundamentals : <br/>
-https://www.youtube.com/watch?v=5OdVJbNCSso&t=6821s
+https://www.youtube.com/watch?v=5OdVJbNCSso&t=6821s <br/>
 13 - Database Design Fundamentals : <br/>
-https://www.youtube.com/watch?v=h0j0QN2b57M
+https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 14 - Codewars All 8kyu | Language "MySQL": <br/>
 15 - CS50 Lecture & Problem set
 

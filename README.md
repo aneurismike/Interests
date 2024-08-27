@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=vcRmKtL4o_4&t=106s <br/>
 https://www.youtube.com/watch?v=CvUiKWv2-C0&t=679s <br/>
 2 - C++ Fundamentals : <br/>
 https://www.youtube.com/watch?v=_bYFu9mBnr4&t=29174s <br/>
-3 - Codewars All 8kyu | Language "C++": <br/>
-4 - JavaScript Fundamentals : <br/>
+3 - JavaScript Fundamentals : <br/>
 https://www.youtube.com/watch?v=EfAl9bwzVZk&t=21461s <br/>
+4 - Codewars All 8kyu | Language "C++ JavaScript": <br/>
 
 ## 1 Design Fundamentals
 0 - Figma For Beginners : <br/>
@@ -49,10 +49,12 @@ Codewars all 7kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by Th
 https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
 1 - The Odin Project Getting Hired : <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
-_Congratulation on getting to this poing, quit scotia and start a carreer in software development_
+_Congratulation on getting to this poing, get job and start a carreer in software development_
 
-## 10 The Odin Project
+## 4 The Odin Project
 https://www.theodinproject.com/ <br/>
+
+## 5 Find a remote software developer job apply apply apply.
 
 #
 #
@@ -186,7 +188,7 @@ Hard Copy King James Version
 ## 20 Codewars Continued
 Codewars all 1kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-1&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-1&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish.
 
-## 21 Graphic Design
+## 5 Graphic Design
 Graphic Design for Everyone (book) <br/>
 
 _Workout, eat well, rest, God is king for eternity_

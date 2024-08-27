@@ -2,12 +2,7 @@
 #
 #
 
-## Important
-
-#
-#
-
-## 0 Introduction to Computer Science
+## 0 Computer Programming Fundamentals
 0 - Computer Science Crash Course : <br/>
 https://www.youtube.com/watch?v=CNFK86hJRfE&t=820s <br/>
 1a - How the Web Works : <br/>
@@ -19,6 +14,51 @@ https://www.youtube.com/watch?v=_bYFu9mBnr4&t=29174s <br/>
 3 - Codewars All 8kyu | Language "C++": <br/>
 4 - JavaScript Fundamentals : <br/>
 https://www.youtube.com/watch?v=EfAl9bwzVZk&t=21461s <br/>
+
+## 1 Design Fundamentals
+0 - Figma For Beginners : <br/>
+https://www.youtube.com/watch?v=ezldKx-jPag <br/>
+1 - Figma Crash Course : <br/>
+https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
+2 Figma For Developers : <br/>
+https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
+3 - Figma UI UX Design : <br/>
+https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
+4 - Learn Design with Figma :  <br/>
+https://www.figma.com/resource-library/design-basics/ <br/>
+5 - Inkscape and Gimp : <br/>
+https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
+
+## 2 Front End Design Fundamentals
+0 - W3Schools HTML : <br/>
+https://www.w3schools.com/html/default.asp <br/>
+1 - W3Schools CSS : <br/>
+https://www.w3schools.com/css/default.asp <br/>
+2 - W3Schools JavaScript : <br/>
+https://www.w3schools.com/js/default.asp <br/>
+3 - W3Schools Git & GitHub fundamentals : <br/>
+https://www.w3schools.com/git/default.asp?remote=github <br/>
+React.JS Fundamentals Course : <br/>
+https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
+Put a Website Online : <br/>
+https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
+Codewars all 7kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish.
+
+## 3 Video Editing For Content Creation
+0 - Blender Video Sequence Editor <br/>
+https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
+1 - The Odin Project Getting Hired : <br/>
+https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
+_Congratulation on getting to this poing, quit scotia and start a carreer in software development_
+
+## 10 The Odin Project
+https://www.theodinproject.com/ <br/>
+
+#
+#
+
+## 0 Introduction to Computer Science
+
 5 - Codewars All 8kyu | Language "JavaScript": <br/>
 6 - C Fundamentals : <br/>
 https://www.youtube.com/watch?v=87SH2Cn0s9A&t=8556s <br/>
@@ -40,36 +80,12 @@ https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 https://www.typingclub.com/ <br/>
 
 ## 2 Design
-0 - Figma For Beginners : <br/>
-https://www.youtube.com/watch?v=ezldKx-jPag <br/>
-1 - Figma Crash Course : <br/>
-https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
-2 Figma For Developers : <br/>
-https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
-3 - Figma UI UX Design : <br/>
-https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
-4 - Learn Design with Figma :  <br/>
-https://www.figma.com/resource-library/design-basics/ <br/>
-5 - Inkscape and Gimp : <br/>
-https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
+
 
 ## 3 Bliblia 
 0 - Hard Copy NIV
 
-## 4 Front End Design Fundamentals
-0 - W3Schools HTML : <br/>
-https://www.w3schools.com/html/default.asp <br/>
-1 - W3Schools CSS : <br/>
-https://www.w3schools.com/css/default.asp <br/>
-2 - W3Schools JavaScript : <br/>
-https://www.w3schools.com/js/default.asp <br/>
-3 - W3Schools Git & GitHub fundamentals : <br/>
-https://www.w3schools.com/git/default.asp?remote=github <br/>
-React.JS Fundamentals Course : <br/>
-https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
-Put a Website Online : <br/>
-https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
-Codewars all 7kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish.
+
 
 ## 5 English Fundamentals
 0 - Lingolia <br/>
@@ -88,12 +104,7 @@ https://automatetheboringstuff.com/ <br/>
 https://drive.google.com/file/d/1EAyX6CtywHLX71Yt_4EftqWu4-1LAjyy/view?usp=drive_link <br/>
 Codewars all 6kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish. <br/>
 
-## 7 Video Editing For Content Creation
-0 - Blender Video Sequence Editor <br/>
-https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
-1 - The Odin Project Getting Hired : <br/>
-https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
-_Congratulation on getting to this poing, quit scotia and start a carreer in software development_
+
 
 ## 8 Biblia
 La Biblia: y sus Divisiones <br/>
@@ -104,9 +115,6 @@ Art Fundamentals <br/>
 https://youtube.com/playlist?list=PLLKBSy1iPHAhCeDjgJDcZnmFp07Ya6jzq&si=zuZoLdnM9Kl_gFRf <br/>
 Anatomia <br/>
 https://www.youtube.com/playlist?list=PLLKBSy1iPHAgrFHJtIwg_oaO9Yyfusc-0 <br/>
-
-## 10 The Odin Project
-https://www.theodinproject.com/ <br/>
 
 ## 11 Puntuation
 The Puntuation Guide <br/>

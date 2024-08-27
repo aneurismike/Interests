@@ -27,7 +27,8 @@ https://www.youtube.com/watch?v=5OdVJbNCSso&t=6821s <br/>
 13 - Database Design Fundamentals : <br/>
 https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 14 - Codewars All 8kyu | Language "MySQL": <br/>
-15 - CS50 Lecture & Problem set
+15 - The Odin Project Getting Hired : <br/>
+https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 
 ## 1 Typing Course
 Typing Club : <br/>
@@ -147,10 +148,6 @@ https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs <br/>
 ## 15 Biblia
 La Biblia: y sus Divisiones <br/>
 https://www.mundobiblicoelestudiodesupalabra.com/2015/10/la-biblia-sus-divisiones.html
-
-## 16 Getting Hired
-The Odin Project Getting Hired : <br/>
-https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 
 ## 17 Biblia
 Hard Copy Reina Valera 1960

@@ -78,7 +78,7 @@ https://beej.us/guide/bgc/html/ <br/>
 3 - Automating The Boring Stuff With Python <br/>
 https://automatetheboringstuff.com/ <br/>
 4 - Java a Begginner's Guide : <br/>
-https://drive.google.com/file/d/1EAyX6CtywHLX71Yt_4EftqWu4-1LAjyy/view?usp=drive_link
+https://drive.google.com/file/d/1EAyX6CtywHLX71Yt_4EftqWu4-1LAjyy/view?usp=drive_link <br/>
 Codewars all 6kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish. <br/>
 
 ## 7 Video Editing For Content Creation
@@ -103,8 +103,6 @@ https://www.theodinproject.com/ <br/>
 ## 11 Puntuation
 The Puntuation Guide <br/>
 https://www.thepunctuationguide.com/
-
-<hr> </hr>
 
 ## 6 C & JavaScript Fundamentals 2
 C Reference Library <br/>

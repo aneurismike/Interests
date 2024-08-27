@@ -41,45 +41,51 @@ https://www.youtube.com/watch?v=ezldKx-jPag <br/>
 https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
 2 Figma For Developers : <br/>
 https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
-Figma UI UX Design : <br/>
+3 - Figma UI UX Design : <br/>
 https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
-Learn Design with Figma :  <br/>
+4 - Learn Design with Figma :  <br/>
 https://www.figma.com/resource-library/design-basics/ <br/>
-Inkscape and Gimp : <br/>
+5 - Inkscape and Gimp : <br/>
 https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
 
-## 3 Bliblia 1
-Hard Copy NIV
+## 3 Bliblia 
+0 - Hard Copy NIV
 
 ## 4 Front End Design Fundamentals
-W3Schools HTML : <br/>
+0 - W3Schools HTML : <br/>
 https://www.w3schools.com/html/default.asp <br/>
-W3Schools CSS : <br/>
+1 - W3Schools CSS : <br/>
 https://www.w3schools.com/css/default.asp <br/>
-W3Schools JavaScript : <br/>
+2 - W3Schools JavaScript : <br/>
 https://www.w3schools.com/js/default.asp <br/>
-W3Schools Git & GitHub fundamentals : <br/>
+3 - W3Schools Git & GitHub fundamentals : <br/>
 https://www.w3schools.com/git/default.asp?remote=github <br/>
-The Odin Project - Foundations : <br/>
-https://www.theodinproject.com/paths/foundations/courses/foundations <br/>
 React.JS Fundamentals Course : <br/>
 https://www.youtube.com/watch?v=lAFbKzO-fss&t=2960s <br/>
 Put a Website Online : <br/>
 https://youtu.be/p1QU3kLFPdg?si=fzhqzDILvSJl8IcS <br/>
-Codewars all 7kyu | Language "" | Not Done by This Point? Stay and Finish.
+Codewars all 7kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish.
 
-## 3 English Fundamentals
-Lingolia <br/>
+## 5 English Fundamentals
+0 - Lingolia <br/>
 https://english.lingolia.com/en/ <br/>
 
-## 4 C & JavaScript Fundamentals 1
-Guide to C <br/>
-https://beej.us/guide/bgc/html/ <br/>
-JavaScritp Info <br/>
+## 6 Computer Languages 1
+0 - Fundamentals of C++ Programming : <br/>
+https://drive.google.com/file/d/1S9r-xHznK_hoh5W_5JVbn4EZGwTmwYSF/view?usp=drive_link <br/>
+1 - JavaScritp Info <br/>
 https://javascript.info/ <br/>
-Codewars all 7kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-7&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>
-The Odin Project - Intermediate HTML and CSS Course : <br/>
-https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
+2 - Guide to C <br/>
+https://beej.us/guide/bgc/html/ <br/>
+3 - Automating The Boring Stuff With Python <br/>
+https://automatetheboringstuff.com/ <br/>
+4 - Java a Begginner's Guide : <br/>
+https://drive.google.com/file/d/1EAyX6CtywHLX71Yt_4EftqWu4-1LAjyy/view?usp=drive_link
+Codewars all 6kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by This Point? Stay and Finish. <br/>
+
+## 7 Video Editing For Content Creation
+0 - Blender Video Sequence Editor <br/>
+https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
 
 ## 5 Concept Design
 Art Fundamentals <br/>

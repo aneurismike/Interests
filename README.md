@@ -27,8 +27,6 @@ https://www.youtube.com/watch?v=5OdVJbNCSso&t=6821s <br/>
 13 - Database Design Fundamentals : <br/>
 https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 14 - Codewars All 8kyu | Language "MySQL": <br/>
-15 - The Odin Project Getting Hired : <br/>
-https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 
 ## 1 Typing Course
 0 - Typing Club : <br/>
@@ -86,12 +84,27 @@ Codewars all 6kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by Th
 ## 7 Video Editing For Content Creation
 0 - Blender Video Sequence Editor <br/>
 https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
+1 - The Odin Project Getting Hired : <br/>
+https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 
-## 5 Concept Design
+## 8 Biblia
+La Biblia: y sus Divisiones <br/>
+https://www.mundobiblicoelestudiodesupalabra.com/2015/10/la-biblia-sus-divisiones.html
+
+## 9 Concept Design
 Art Fundamentals <br/>
 https://youtube.com/playlist?list=PLLKBSy1iPHAhCeDjgJDcZnmFp07Ya6jzq&si=zuZoLdnM9Kl_gFRf <br/>
 Anatomia <br/>
 https://www.youtube.com/playlist?list=PLLKBSy1iPHAgrFHJtIwg_oaO9Yyfusc-0 <br/>
+
+## 10 The Odin Project
+https://www.theodinproject.com/ <br/>
+
+## 11 Puntuation
+The Puntuation Guide <br/>
+https://www.thepunctuationguide.com/
+
+<hr> </hr>
 
 ## 6 C & JavaScript Fundamentals 2
 C Reference Library <br/>
@@ -111,9 +124,7 @@ Codewars all 5kyu | Language "[JS](https://www.codewars.com/kata/search/javascri
 The Odin Project Advance HMTL and CSS Course : <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css <br/>
 
-## 9 Puntuation
-The Puntuation Guide <br/>
-https://www.thepunctuationguide.com/
+
 
 ## 10 Network Programming
 Guide to Network Programming <br/>
@@ -148,10 +159,6 @@ https://beej.us/guide/bgipc/html/ <br/>
 Codewars all 3kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-3&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-3&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>
 The Odin Project NodeJS : <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs <br/>
-
-## 15 Biblia
-La Biblia: y sus Divisiones <br/>
-https://www.mundobiblicoelestudiodesupalabra.com/2015/10/la-biblia-sus-divisiones.html
 
 ## 17 Biblia
 Hard Copy Reina Valera 1960

@@ -1,5 +1,11 @@
 # Computer Programming Fundamentals
-# 
+#
+#
+
+## Important
+
+#
+#
 
 ## 0 Introduction to Computer Science
 0 - Computer Science Crash Course : <br/>

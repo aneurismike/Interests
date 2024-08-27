@@ -1,6 +1,57 @@
 # Computer Programming Fundamentals
+
+
 #
 #
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+## 0 Design Fundamentals
+0 - Figma For Beginners : <br/>
+https://www.youtube.com/watch?v=ezldKx-jPag <br/>
+1 - Figma Crash Course : <br/>
+https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
+2 Figma For Developers : <br/>
+https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
+3 - Figma UI UX Design : <br/>
+https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
+4 - Learn Design with Figma :  <br/>
+https://www.figma.com/resource-library/design-basics/ <br/>
+5 - Inkscape and Gimp : <br/>
+https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
+
+## 1 The Odin Project
+https://www.theodinproject.com/ <br/>
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
 
 ## 0 Computer Programming Fundamentals
 0 - Computer Science Crash Course : <br/>
@@ -14,20 +65,6 @@ https://www.youtube.com/watch?v=_bYFu9mBnr4&t=29174s <br/>
 3 - JavaScript Fundamentals : <br/>
 https://www.youtube.com/watch?v=EfAl9bwzVZk&t=21461s <br/>
 4 - Codewars All 8kyu | Language "C++ JavaScript": <br/>
-
-## 1 Design Fundamentals
-0 - Figma For Beginners : <br/>
-https://www.youtube.com/watch?v=ezldKx-jPag <br/>
-1 - Figma Crash Course : <br/>
-https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
-2 Figma For Developers : <br/>
-https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
-3 - Figma UI UX Design : <br/>
-https://www.youtube.com/watch?v=c9Wg6Cb_YlU <br/>
-4 - Learn Design with Figma :  <br/>
-https://www.figma.com/resource-library/design-basics/ <br/>
-5 - Inkscape and Gimp : <br/>
-https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
 
 ## 2 Front End Design Fundamentals
 0 - W3Schools HTML : <br/>
@@ -50,14 +87,6 @@ https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlz
 1 - The Odin Project Getting Hired : <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 _Congratulation on getting to this poing, get job and start a carreer in software development_
-
-## 4 The Odin Project
-https://www.theodinproject.com/ <br/>
-
-## 5 Find a remote software developer job apply apply apply.
-
-#
-#
 
 ## 0 Introduction to Computer Science
 

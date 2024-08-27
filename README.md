@@ -3,8 +3,10 @@
 ## 0 Introduction to Computer Science
 0 - Computer Science Crash Course : <br/>
 https://www.youtube.com/watch?v=CNFK86hJRfE&t=820s <br/>
-1 - How the Web Works : <br/>
-https://www.youtube.com/watch?v=vcRmKtL4o_4&t=106s <br/>
+1a - How the Web Works : <br/>
+https://www.youtube.com/watch?v=vcRmKtL4o_4&t=106s <br/> 
+1b Git : <br/>
+https://www.youtube.com/watch?v=CvUiKWv2-C0&t=679s <br/>
 2 - C++ Fundamentals : <br/>
 https://www.youtube.com/watch?v=_bYFu9mBnr4&t=29174s <br/>
 3 - Codewars All 8kyu | Language "C++": <br/>

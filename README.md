@@ -31,13 +31,13 @@ https://www.youtube.com/watch?v=h0j0QN2b57M <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
 
 ## 1 Typing Course
-Typing Club : <br/>
+0 - Typing Club : <br/>
 https://www.typingclub.com/ <br/>
 
 ## 2 Design
-Figma For Beginners : <br/>
+0 - Figma For Beginners : <br/>
 https://www.youtube.com/watch?v=ezldKx-jPag <br/>
-Figma Crash Course : <br/>
+1 - Figma Crash Course : <br/>
 https://www.youtube.com/watch?v=BOt3MNB71gI <br/>
 Figma For Developers : <br/>
 https://www.youtube.com/watch?v=Vw_XmufXCCI <br/>
@@ -48,7 +48,10 @@ https://www.figma.com/resource-library/design-basics/ <br/>
 Inkscape and Gimp : <br/>
 https://youtube.com/playlist?list=PLLKBSy1iPHAiBCV_bZQanGAVvak8Zv-vd&si=KraopXQkG2DjFVc9
 
-## 2 Front End Design Fundamentals
+## 3 Bliblia 1
+Hard Copy NIV
+
+## 4 Front End Design Fundamentals
 W3Schools HTML : <br/>
 https://www.w3schools.com/html/default.asp <br/>
 W3Schools CSS : <br/>
@@ -94,9 +97,6 @@ https://eloquentjavascript.net/ <br/>
 Codewars all 6kyu | Language "[JS](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&order_by=sort_date%20desc), [C](https://www.codewars.com/kata/search/c?q=&r%5B%5D=-6&order_by=sort_date%20desc)" | Not Done by This Point? Stay and Finish. <br/>
 The Odin Project JavaScript </br>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript
-
-## 7 Bliblia 1
-Hard Copy NIV
 
 ## 8 C & JavaScript Fundamentals 3
 Think C <br/>

@@ -86,7 +86,7 @@ Codewars all 6kyu | Language "C++ JavaScript C Python Java SQL" | Not Done by Th
 https://youtube.com/playlist?list=PLsGl9GczcgBs0r5xcKL7KvrmGoRuro8RV&si=UgC5LNlzAnjePzrX <br/>
 1 - The Odin Project Getting Hired : <br/>
 https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired <br/>
-_Congratulation on getting to this poing, quit scotia and start a carreer in software development_
+_Congratulation on getting to this poing, quit scotia and start a carreer in software development, yeah right :)_
 
 ## 8 Biblia
 La Biblia: y sus Divisiones <br/>
